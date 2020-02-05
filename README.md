@@ -13,7 +13,11 @@
 * 部分实现功能截图
 
 ![DormImage](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B7.PNG)
-![DormImage]()
-![DormImage]()
-![DormImage]()
-![DormImage]()
+
+![DormImage](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B72.PNG)
+
+![DormImage](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B73.PNG)
+
+![DormImage](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B74.PNG)
+
+![DormImage](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B712.PNG)
