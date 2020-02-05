@@ -12,12 +12,12 @@
   * 外来人员登记模块
 * 部分实现功能截图
 
-![DormImage](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B7.PNG)
+![DormImage1](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B7.PNG)
 
-![DormImage](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B72.PNG)
+![DormImage2](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B72.PNG)
 
-![DormImage](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B73.PNG)
+![DormImage3](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B73.PNG)
 
-![DormImage](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B74.PNG)
+![DormImage4](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B74.PNG)
 
-![DormImage](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B712.PNG)
+![DormImage5](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/%E6%8D%95%E8%8E%B712.PNG)
