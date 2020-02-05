@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DormMIS", "DormMIS\DormMIS.csproj", "{4AD4C9AD-4DCA-4FCB-811E-7EBC81B5A265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD4C9AD-4DCA-4FCB-811E-7EBC81B5A265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD4C9AD-4DCA-4FCB-811E-7EBC81B5A265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD4C9AD-4DCA-4FCB-811E-7EBC81B5A265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD4C9AD-4DCA-4FCB-811E-7EBC81B5A265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16868FEE-22A4-4DB0-98B4-6ADF25A196CC}
+	EndGlobalSection
+EndGlobal
