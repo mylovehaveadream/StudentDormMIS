@@ -17,7 +17,7 @@
 ![DormImage1](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/捕获1.PNG)
 
 ![DormImage2](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/捕获2.PNG)
-2
+
 ![DormImage3](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/捕获3.PNG)
 
 ![DormImage4](https://github.com/mylovehaveadream/StudentDormMIS/blob/master/images/捕获4.PNG)
